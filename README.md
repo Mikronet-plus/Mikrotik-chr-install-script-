@@ -1,6 +1,6 @@
 Mikrotik chr auto install Ubuntu vps -- version 18 or 20.4
 
-curl -fsSL https://raw.githubusercontent.com/asghar61/main/install.sh | sudo bash
+curl -fsSL https://github.com/asghar61/Mikrotik-chr-install-script-/blob/main/install.sh | sudo bash
 
 
 
