@@ -1,5 +1,5 @@
 # #!/usr/bin/env bash
-
+#Mikronet-plus-youtube
 # Must be root !
 if [[ $EUID -ne 0 ]]; then
    echo "This script must be run as root" 
