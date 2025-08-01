@@ -1,4 +1,6 @@
-Mikrotik chr auto install Ubuntu vps -- version 18 or 20.4
+
+#Mikrotik-chr
+**Mikrotik chr auto install Ubuntu vps -- version 18 or 20.4
 
 نصب اتوماتیک میکروتیک کلاد روتر روی سرور مجازی اوبونتو 18 یا 20
  
