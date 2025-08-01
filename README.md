@@ -9,5 +9,5 @@ HOSTVDS -racknard  ...
 
 install-script-/blob/main/install.sh
 
-```curl -fsSL https://github.com/asghar61/Mikrotik-chr
-sudo bash install.sh```
+```curl -fsSL https://github.com/asghar61/Mikrotik-chr```
+```sudo bash install.sh```
