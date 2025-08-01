@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=ZwA4ve8q-wI
 ارائه شده توسط کانال میکرونت پلاس در یوتیوب
 
 
-install-script-/blob/main/install.sh
+install-script- bash install.sh
 
 ``` bash
 curl -fsSL https://github.com/asghar61/Mikrotik-chr-install-script-/blob/main/install.sh
