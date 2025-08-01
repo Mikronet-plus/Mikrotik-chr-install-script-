@@ -12,5 +12,4 @@ install-script-/blob/main/install.sh
 ``` bash
 curl -fsSL https://github.com/asghar61/Mikrotik-chr-install-script-/blob/main/install.sh```
 
-```bash
-sudo bash install.sh```
+
