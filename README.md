@@ -15,6 +15,6 @@ https://www.youtube.com/watch?v=ZwA4ve8q-wI
 install-script- bash install.sh
 
 ``` bash
-curl -fsSL (https://github.com/asghar61/Mikrotik-chr-install-script-/main/install.sh)
+curl -fsSL https://github.com/asghar61/Mikrotik-chr-install-script-/main/install.sh
 
 
