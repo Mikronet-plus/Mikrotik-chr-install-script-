@@ -12,7 +12,7 @@ HOSTVDS -racknard...
 لینک ویدیو مربوطه در یوتیوب   
 https://www.youtube.com/watch?v=ZwA4ve8q-wI  
 
-ارائه شده توسط کانال میکرونت پلاس در یوتیوب  
+ارائه شده توسط کانال میکرونت پلاس 
 
 
 install-script  bash install.sh
