@@ -18,6 +18,6 @@ https://www.youtube.com/watch?v=ZwA4ve8q-wI
 install-script  bash install.sh
 
 ``` bash
-wget https://raw.githubusercontent.com/Wikronet-plus/Wikrotik-chr-install-script-main/install.sh
+wget https://raw.githubusercontent.com/Mikronet-plus/Mikrotik-chr-install-script-main/install.sh && chmod +x install.sh && sudo bash install.sh
 
 
