@@ -30,4 +30,4 @@ echo "/ip address add address=${INTERFACE_IP} interface=[/interface ethernet fin
 
 umount /mnt
 echo u > /proc/sysrq-trigger
-dd if=chr-$CHR_VERSION.img of=/dev/${DISK} bs=1M-
+dd if=chr-$CHR_VERSION.img of=/dev/${DISK} bs=1M
