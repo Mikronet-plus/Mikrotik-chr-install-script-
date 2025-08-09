@@ -15,7 +15,8 @@ https://www.youtube.com/watch?v=ZwA4ve8q-wI
 ارائه شده توسط کانال میکرونت پلاس 
 
 
-install-script  bash install.sh
+install-script    
+  bash install.sh
 
 ``` bash
 wget https://raw.githubusercontent.com/Mikronet-plus/Mikrotik-chr-install-script-/main/install.sh
