@@ -1,7 +1,27 @@
 # how to install mikrotik chr on your server
-#Mikrotik-chr# 7.17
+**Mikrotik-chr 7.17**
 
 **Mikrotik chr auto install Ubuntu vps . version 18 or 20.4**
+
+
+
+# MikroTik CHR Install Script
+
+[🇬🇧 English](#-english) | [🇮🇷 فارسی](#-فارسی)
+
+---
+
+## 🇬🇧 English
+This repository contains a script to install MikroTik CHR on a server.
+
+...
+
+---
+
+## 🇮🇷 فارسی
+این ریپو شامل اسکریپتی برای نصب MikroTik CHR روی سرور است.
+
+...
 
 نصب اتوماتیک میکروتیک کلاد روتر روی سرور مجازی اوبونتو 18 یا 20  
  
