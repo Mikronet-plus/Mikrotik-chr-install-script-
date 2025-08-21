@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=ZwA4ve8q-wI
 ارائه شده توسط کانال میکرونت پلاس 
 
 -----------
-**EN** 
+**EN**  
 Automatic installation of MikroTik Cloud Router on Ubuntu 18 or 20 virtual server
 
 After running the script, turn off and on your virtual machine - the user is admin and without a password
