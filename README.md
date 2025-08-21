@@ -37,7 +37,7 @@ https://www.youtube.com/watch?v=ZwA4ve8q-wI
 Provided by Micronet Plus channel
 
 
-install-script    
+install-script  - طریقه نصب  
   bash install.sh
 
 ``` bash
