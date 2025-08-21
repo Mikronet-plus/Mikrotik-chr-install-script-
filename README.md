@@ -5,23 +5,9 @@
 
 
 
-# MikroTik CHR Install Script
+# اسکریپت نصب MikroTik CHR
 
-[🇬🇧 English](#-english) | [🇮🇷 فارسی](#-فارسی)
-
----
-
-## 🇬🇧 English
-This repository contains a script to install MikroTik CHR on a server.
-
-...
-
----
-
-## 🇮🇷 فارسی
-این ریپو شامل اسکریپتی برای نصب MikroTik CHR روی سرور است.
-
-...
+🌐 زبان‌ها: [English](README.md) | [فارسی](README.fa.md)
 
 نصب اتوماتیک میکروتیک کلاد روتر روی سرور مجازی اوبونتو 18 یا 20  
  
