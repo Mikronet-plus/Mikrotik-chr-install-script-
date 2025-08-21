@@ -7,6 +7,7 @@
 
 # اسکریپت نصب MikroTik CHR
 
+# persian - فارسی
 
 
 نصب اتوماتیک میکروتیک کلاد روتر روی سرور مجازی اوبونتو 18 یا 20  
@@ -19,6 +20,21 @@ HOSTVDS -racknard...
 https://www.youtube.com/watch?v=ZwA4ve8q-wI  
 
 ارائه شده توسط کانال میکرونت پلاس 
+
+-----------
+# EN 
+Automatic installation of MikroTik Cloud Router on Ubuntu 18 or 20 virtual server
+
+After running the script, turn off and on your virtual machine - the user is admin and without a password
+
+Tested on
+HOSTVDS -racknard...
+
+After downloading the script, use the bash command to install it on your Ubuntu server
+Related video link on YouTube
+https://www.youtube.com/watch?v=ZwA4ve8q-wI
+
+Provided by Micronet Plus channel
 
 
 install-script    
