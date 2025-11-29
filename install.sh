@@ -1,4 +1,4 @@
-# #!/usr/bin/env bash
+#!/usr/bin/env bash
 #Mikronet-plus-youtube
 # Must be root !
 if [[ $EUID -ne 0 ]]; then
@@ -10,7 +10,7 @@ echo "Preparation ..."
 apt install unzip -y
 
 # Latest Stable
-CHR_VERSION=7.17
+CHR_VERSION=7.15.3
 
 # Environment
 DISK=$(lsblk | grep "disk" | head -n 1 | cut -d' ' -f1)
