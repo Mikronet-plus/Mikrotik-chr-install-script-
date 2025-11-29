@@ -1,5 +1,5 @@
 # how to install mikrotik chr on your server
-**Mikrotik-chr 7.20.5**
+**Mikrotik-chr 7.17**
 
 **Mikrotik chr auto install Ubuntu vps . version 18 or 20.4**
 
